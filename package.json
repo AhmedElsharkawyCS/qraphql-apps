@@ -1,0 +1,26 @@
+{
+  "name": "graphql-apps",
+  "version": "1.0.0",
+  "description": "sample applications built using graphql",
+  "author": {
+    "name": "Ahmed Elsharkawy",
+    "email": "ahmedelsharkawy.fcih@gmail.com",
+    "url": "https://www.linkedin.com/in/ahmed-elsharkawy-3684a5140/"
+  },
+  "scripts": {
+    "run:commerce": "prod"
+  },
+  "keywords": [
+    "graphql",
+    "javascript",
+    "apollo",
+    "reactJs",
+    "nodeJs"
+  ],
+  "homepage": "https://github.com/AhmedElsharkawyCS/qraphql-apps/blob/main/README.md",
+  "repository": {
+    "url": "https://github.com/AhmedElsharkawyCS/qraphql-apps",
+    "type": "git"
+  },
+  "license": "MIT"
+}
