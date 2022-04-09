@@ -1,6 +1,6 @@
-# GraphQL sample applications
+# E-commerce GraphQL application
 
 ## purpose
 
-Just developing some examples using `GraphQL` to apply the best practices and
+Sample E-Commerce built with `GraphQL` to apply the best practices and
 practice it more and deeply
